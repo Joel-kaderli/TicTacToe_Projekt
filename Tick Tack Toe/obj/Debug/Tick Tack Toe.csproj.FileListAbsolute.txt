@@ -1,0 +1,10 @@
+C:\Users\lungo\source\repos\Tick Tack Toe\obj\Debug\Tick Tack Toe.csproj.AssemblyReference.cache
+C:\Users\lungo\source\repos\Tick Tack Toe\obj\Debug\Tick_Tack_Toe.Form1.resources
+C:\Users\lungo\source\repos\Tick Tack Toe\obj\Debug\Tick_Tack_Toe.Properties.Resources.resources
+C:\Users\lungo\source\repos\Tick Tack Toe\obj\Debug\Tick Tack Toe.csproj.GenerateResource.cache
+C:\Users\lungo\source\repos\Tick Tack Toe\obj\Debug\Tick Tack Toe.csproj.CoreCompileInputs.cache
+C:\Users\lungo\source\repos\Tick Tack Toe\bin\Debug\Tick Tack Toe.exe.config
+C:\Users\lungo\source\repos\Tick Tack Toe\bin\Debug\Tick Tack Toe.exe
+C:\Users\lungo\source\repos\Tick Tack Toe\bin\Debug\Tick Tack Toe.pdb
+C:\Users\lungo\source\repos\Tick Tack Toe\obj\Debug\Tick Tack Toe.exe
+C:\Users\lungo\source\repos\Tick Tack Toe\obj\Debug\Tick Tack Toe.pdb
